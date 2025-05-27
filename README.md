@@ -1,6 +1,7 @@
 # Alax Gabriel
 
-Profissional na área de mecatrônica e Desenvolvedor Full Stack com experiência em JavaScript, HTML, CSS e frameworks como React JS para front-end e Node JS para back-end. Especializado no desenvolvimento de sistemas web dinâmicos, atuando na criação e integração de APIs robustas e eficientes. Com domínio em bancos de dados relacionais e não relacionais, sou capaz de projetar soluções completas que otimizam a performance e a usabilidade dos produtos digitais.
+Profissional na área de mecatrônica com conhecimento em desenvolvimento de projetos mecatrônicos, com foco em integração de sistemas eletromecânicos. Experiência com programação aplicada à automação industrial. Familiaridade com sistemas hidráulicos e pneumáticos. Habilidade no uso e programação de microcontroladores. Facilidade para trabalhar em equipe e perfil proativo na resolução de problemas.
+Sou também Desenvolvedor Full Stack com experiência em JavaScript, HTML, CSS e frameworks como React JS para front-end e Node JS para back-end. Especializado no desenvolvimento de sistemas web dinâmicos, atuando na criação e integração de APIs robustas e eficientes. Com domínio em bancos de dados relacionais e não relacionais, sou capaz de projetar soluções completas que otimizam a performance e a usabilidade dos produtos digitais.
 
 ### Conecte-se comigo
 
